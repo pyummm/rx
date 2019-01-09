@@ -1,0 +1,22 @@
+{
+  "name": "rx",
+  "version": "1.0.0",
+  "description": "test rx node",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyummm/rx.git"
+  },
+  "author": "pyav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyummm/rx/issues"
+  },
+  "homepage": "https://github.com/pyummm/rx#readme",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
